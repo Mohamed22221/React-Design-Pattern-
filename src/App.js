@@ -1,8 +1,9 @@
+import ListItems from "./pages/ListItems";
 
 function App() {
   return (
     <div className="App">
-      Hi
+      <ListItems />
     </div>
   );
 }
